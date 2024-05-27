@@ -68,20 +68,4 @@ API Endpoints
 - **GET `/Akshitha/view`**: View details of votes for Akshitha.
 - **GET `/Pavithra/view`**: View details of votes for Pavithra.
 
-Project Structure
 
-vote-polling-app/
-├── backend/
-│   ├── server.js
-│   └── ...
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── style/
-│   │   ├── App.js
-│   │   └── ...
-│   ├── public/
-│   ├── package.json
-│   └── ...
-├── README.md
-└── ...
